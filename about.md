@@ -1,5 +1,4 @@
-# Developing Data Products
-## Course Project: Shiny Application and Reproducible Pitch
+## Help documentation
 
 ### Introduction
 This Shiny App is for Course Project of [Developing Data Products](https://class.coursera.org/devdataprod-033/)
